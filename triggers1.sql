@@ -45,3 +45,5 @@ VALUES (7, 'Prashant', 90000);
 UPDATE Employee1
 SET employee_name = 'Prashant Kumar', salary = 100000
 WHERE employee_id = 7;
+
+-- Sushant
